@@ -1,0 +1,28 @@
+C:\Users\victo\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\victo\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\victo\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\victo\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\victo\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\victo\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\victo\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\victo\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\victo\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\victo\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\victo\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\victo\OneDrive\Рабочий стол\Modules\Ex2\Exercise2\src\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\victo\OneDrive\Рабочий стол\Modules\Ex2\Exercise2\src\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\victo\OneDrive\Рабочий стол\Modules\Ex2\Exercise2\src\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\victo\OneDrive\Рабочий стол\Modules\Ex2\Exercise2\src\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\victo\OneDrive\Рабочий стол\Modules\Ex2\Exercise2\src\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\victo\OneDrive\Рабочий стол\Modules\Ex2\Exercise2\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Рабочий стол\Modules\Ex2\Exercise2\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Рабочий стол\Modules\Ex2\Exercise2\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Рабочий стол\Modules\Ex2\Exercise2\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Рабочий стол\Modules\Ex2\Exercise2\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\victo\OneDrive\Рабочий стол\Modules\Ex2\Exercise2\src\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\victo\OneDrive\Рабочий стол\Modules\Ex2\Exercise2\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\victo\OneDrive\Рабочий стол\Modules\Ex2\Exercise2\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Рабочий стол\Modules\Ex2\Exercise2\src\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
